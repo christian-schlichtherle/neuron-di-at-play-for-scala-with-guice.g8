@@ -3,7 +3,6 @@
 // See http://www.foundweekends.org/giter8/testing.html#Using+the+Giter8Plugin for more details.
 lazy val root = (project in file(".")).
   settings(
-    name := "Neuron DI @ Play for Scala with Guice seed",
     test in Test := {
       val _ = (g8Test in Test).toTask("").value
     },
