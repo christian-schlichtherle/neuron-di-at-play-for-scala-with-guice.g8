@@ -1,6 +1,6 @@
 A [Giter8][g8] template for [Neuron DI @ Play for Scala](https://github.com/christian-schlichtherle/neuron-di/wiki/NeuronDIAtPlayForScalaTutorial)!
 
-    sbt new christian-schlichtherle/neuron-di-at-play-for-scala.g8
+    sbt new christian-schlichtherle/neuron-di-at-play-for-scala-with-guice.g8
 
 ## Template License
 
